@@ -27,7 +27,7 @@ Quando um repositório é criado com o GitHub, ele é armazenado remotamente na 
 Para entender mais sobre a clonagem, leia ["Clonar um repositório
 "](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository). 
 
-### Commitando (Commit) and empurrando (Push).
+### Commitando (Commit) e empurrando (Push).
 
 **Commit** e **push** são como você pode adicionar as alterações feitas em sua máquina local ao repositório remoto no GitHub. Dessa forma, seu instrutor e/ou colegas de equipe podem ver seu trabalho mais recente quando você estiver pronto para compartilhá-lo. Você pode fazer um "commit" quando tiver feito alterações em seu projeto que deseja salvar. Você também pode adicionar uma **mensagem de commit** útil para lembrar a si mesmo ou a seus colegas de equipe sobre o trabalho que você fez (por exemplo, “Adicionou um README com informações sobre nosso projeto”).
 
@@ -55,7 +55,7 @@ Para saber mais sobre bifurcação, leia ["Bifurcar um repositório"](https://do
 ### Pull requests
 
 Ao trabalhar com branches, você pode usar um pull request para informar aos outros sobre as alterações que deseja fazer e pedir feedback. Depois que uma solicitação pull é aberta, você pode discutir e revisar as possíveis alterações com os colaboradores e adicionar mais alterações, se necessário. Você pode adicionar pessoas específicas como revisores de sua solicitação pull, o que mostra que você deseja o feedback deles sobre suas alterações! Assim que uma pull request estiver pronta, ela pode ser mesclada em sua branch principal.
-Para saber mais sobre solicitações pull, leia ["Sobre solicitação de pull"](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+Para saber mais sobre solicitações pull, leia ["Sobre pull request"](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 
 ### Issues
@@ -73,7 +73,7 @@ Para saber mais sobre seu perfil de usuário e adicionar e atualizar seu LEIA-ME
 ### Usando markdown no Github 
 
 Você já deve ter notado, mas você pode adicionar decorações e estilos aos seus issues, pull requests e arquivos. ["Markdown"](https://guides.github.com/features/mastering-markdown/) é uma maneira fácil de estilizar seus issues, pull requests e arquivos com uma sintaxe simples. Isso pode ser útil para organizar suas informações e facilitar a leitura por outras pessoas. Você também pode inserir gifs e imagens para ajudar a transmitir seu ponto de vista!
-Para saber mais sobre como usar o tipo de markdown do GitHub, leia ["Sintaxe básica de gravação e formatação no GitHub"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
+Para saber mais sobre como usar o tipo de markdown do GitHub, leia ["Sintaxe básica de gravação e formatação no GitHub"](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 ### Engajando com a comunidade do Github
 
